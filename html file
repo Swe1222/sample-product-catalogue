@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>SHOPPY STORE</title>
+<style>
+img{
+float:right;
+}
+</style>
+</head>
+<body><fieldset style="background-color:teal"opacity:0.1>
+<h1 style="color:lightblue;"><center>KURTIS</center></h1>
+</fieldset><br>
+<body style="background-color:lightcyan;">
+<img src="C:\Users\HP\Documents\kurti 1.jpg" height="200" width="200"><br>
+<h1 style="color:gray;">WforWomen</h1>
+<h3 style="color:goldenrod;">Rs.1500-only</h3>
+<h3 style="color:goldenrod;">13% offer</h3>
+<h3 style="color:goldenrod;"> Extra 5% offer on debit card use</h3>
+<button style="background-color:lightpink;border-color:magenta;color:white" onclick="myFunction()">order now</button>
+<script>
+function m1myFunction(){
+Alert("Successfully ordered to your cart !");
+}
+</script>
+<button style="background-color:lightpink;border-color:magenta; color:white"onclick="myFunction()">Add to cart</button>
+<script>
+function m1myFunction(){
+alert("Successfully added to your cart !");
+}</script>
+<hr><br>
+<img src="C:\Users\HP\Documents\kurti 2.jpg" height="200" width="200"><br>
+<h1 style="color:gray;">AURELIA</h1>
+<h3 style="color:goldenrod;">Rs.1250-only</h3>
+<h3 style="color:goldenrod;">11% offer</h3>
+<br>
+<button style="background-color:lightpink;border-color:magenta; color:white" onclick="myfunction()">order now</button>
+<script>
+function myFunction(){
+Alert("Your order is successful");
+}
+</script>
+<button style="background-color:lightpink;border-color:magenta; color:white"onclick="myFunction()">Add to cart</button>
+<script>
+function m1myFunction(){
+alert("Successfully added to your cart !");
+}</script>
+<hr><br>
+<img src="C:\Users\HP\Documents\kurti 4.jpg" height="200" width="200"><br>
+<h1 style="color:gray;">AVAASA</h1>
+<h3 style="color:goldenrod;">Rs.850-only</h3>
+<h3 style="color:goldenrod;">10% offer</h3> 
+<button style="background-color:lightpink;border-color:magenta;color:white" onclick="myFunction()">order now</button>
+<script>
+function m1myFunction(){
+Alert("your order is successfull !");
+}
+</script>
+<button style="background-color:lightpink;border-color:magenta;      color:white"onclick="myFunction()">Add to cart</button>
+<script>
+function m1myFunction(){
+alert("Successfully added to your cart !");
+}</script>
+<hr>
+</div>
+</body>
+</html>
